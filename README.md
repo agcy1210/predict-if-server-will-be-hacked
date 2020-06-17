@@ -1,2 +1,2 @@
-- Problem Statement: To predict if the server will be hacked
+- Problem Statement: To predict if the server will be hacked or not.
 - Approach used: Support Vector Machine (SVM)
